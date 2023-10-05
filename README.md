@@ -20,6 +20,7 @@ for example Numpy
 
 https://techcult.com/how-to-install-numpy/
 
-More information will be given on today.
+
 With regards,
+
 Arkadiusz Głogowski
